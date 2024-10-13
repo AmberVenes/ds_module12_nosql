@@ -1,1 +1,2 @@
 # ds_module12_nosql
+I analyzed food hygiene rating data using a MongoDB database named uk_food, with a collection called establishments, to assist journalists and food critics. The data was imported from an establishments.json file, verified in Jupyter Notebook, and updated by adding a new restaurant, removing establishments from Dover, and converting string values to numbers. Queries were then executed to retrieve health and safety details on specific establishments.
